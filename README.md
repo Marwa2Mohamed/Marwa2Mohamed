@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Marwa Abdilhamid</h1>
 <h3 align="center">I am a Junior Full-stack developer at HCL technologies Canada. Passionate about topics and fields related to Web, Mobile, ML, and AI. Currently, I am focusing my learning path more on web tools and frameworks (e.g. REACT.js), but soon I will take the ML path ✌🏻. Appreciate every opportunity that supports my passion and skills 🤝.</h3>
 
