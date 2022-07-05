@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwa2mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="marwa2mohamed" /> </p>
 
-- 🔭 I’m currently working on **AEM CSM**
+- 🔭 I’m currently working on **AEM CMS**
 
 - 🌱 I’m currently learning **React, C#, Azure,Typescript.**
 
