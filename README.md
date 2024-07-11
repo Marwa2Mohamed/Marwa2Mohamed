@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **Marwam.2@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/file/d/1BL8tjoCUaIntkHsy77up6t8YVLBVjfJE/edit?usp=docslist_api&filetype=msword](https://docs.google.com/file/d/1BL8tjoCUaIntkHsy77up6t8YVLBVjfJE/edit?usp=docslist_api&filetype=msword)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/marwa-abdilhamid-aba788194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/marwa-abdilhamid-aba788194" height="30" width="40" /></a>
