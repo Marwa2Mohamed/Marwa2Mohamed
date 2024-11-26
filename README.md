@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marwa Abdilhamid</h1>
-<h3 align="center">I am a Full-stack developer at HCL Technologies Canada. Passionate about topics and fields related to Web, Mobile, ML, and AI. Currently, I am focusing my learning path more on web tools and frameworks (e.g. REACT.js), but soon I will take the ML path ✌🏻. Appreciate every opportunity that supports my passion and skills 🤝.</h3>
+<h3 align="center">I am a Full-stack developer. Passionate about topics and fields related to Web, Mobile, ML, and AI. Currently, I am focusing my learning path more on web tools and frameworks (e.g. REACT.js) ✌🏻. Appreciate every opportunity that supports my passion and skills 🤝.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwa2mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="marwa2mohamed" /> </p>
 
-- 🔭 I’m currently working on **AEM CMS**
+- 🔭Previously worked as part of the development team on AEM CMS, leveraging its capabilities to deliver dynamic and scalable content management solutions.
 
 - 🌱 I’m currently learning **React, C#, Azure,Typescript.**
 
